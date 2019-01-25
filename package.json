@@ -20,7 +20,7 @@
     "electron-packager": "^12.2.0",
     "ts-loader": "^5.3.3",
     "typescript": "^3.2.2",
-    "webpack": "^3.10.0"
+    "webpack": "^4.29.0"
   },
   "dependencies": {
     "argparse": "^1.0.10",
