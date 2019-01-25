@@ -5,12 +5,12 @@ node_js:
  - "node"
  - "10"
  - "8"
- - "6"
+# - "6"
 
 env:
- - CONFIG: 'package-darwin'
- - CONFIG: 'package-linux'
- - CONFIG: 'package-win32'
+# - CONFIG: 'package-darwin'
+# - CONFIG: 'package-linux'
+# - CONFIG: 'package-win32'
  - CONFIG: 'build-release'
  - CONFIG: 'build-watch'
 
